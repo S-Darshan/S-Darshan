@@ -14,6 +14,6 @@
 
 🔗 **Project Repository**
 
-https://github.com/YOUR_USERNAME/smart-classroom-management-system
+https://github.com/S-Darshan/smart-classroom-management-system
 
 Thanks for visiting my profile!
