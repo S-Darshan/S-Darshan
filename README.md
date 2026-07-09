@@ -12,4 +12,8 @@
 
 ⭐ Smart Classroom Management System using Face Recognition, LoRa and IoT
 
+🔗 **Project Repository**
+
+https://github.com/YOUR_USERNAME/smart-classroom-management-system
+
 Thanks for visiting my profile!
