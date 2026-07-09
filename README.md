@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Darshan 👋
 
-<!--
-**S-Darshan/S-Darshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱  Passionate about Embedded Systems, Digital Electronics, and VLSI Design 
+- 💻 Interested in Computer Vision and Python
+
+- 🚀 Always learning new technologies
+
+## Technical Skills
+
+- Python
+- C
+- Arduino
+- ESP32
+- LoRa
+- OpenCV
+- Face Recognition
+- Embedded Systems
+- IoT
+
+## Featured Project
+
+### ⭐ Smart Classroom Management System using Face Recognition, LoRa and IoT
+
+An IoT-enabled smart classroom solution integrating face recognition, automated attendance, classroom automation, energy monitoring, and LoRa-based communication.
+
+🔗 Repository:
+https://github.com/YOUR_USERNAME/smart-classroom-management-system
+
+---
+
+⭐ Thanks for visiting my profile!
