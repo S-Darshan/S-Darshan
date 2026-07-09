@@ -28,7 +28,7 @@
 An IoT-enabled smart classroom solution integrating face recognition, automated attendance, classroom automation, energy monitoring, and LoRa-based communication.
 
 🔗 Repository:
-https://github.com/YOUR_USERNAME/smart-classroom-management-system
+https://github.com/S-Darshan/smart-classroom-management-system
 
 ---
 
